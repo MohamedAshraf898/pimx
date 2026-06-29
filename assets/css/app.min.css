@@ -9707,6 +9707,10 @@ a.aximo-connect-login img {
 }
 
 @media (max-width:991px) {
+    .aximo-hero-thumb img {
+        display: none;
+    }
+
     .aximo-default-content h2 {
         margin-bottom: 15px
     }
@@ -9717,6 +9721,10 @@ a.aximo-connect-login img {
 }
 
 @media (max-width:767px) {
+    .aximo-hero-thumb img {
+        display: none;
+    }
+
     .aximo-default-content p {
         font-size: 18px
     }
