@@ -9707,6 +9707,10 @@ a.aximo-connect-login img {
 }
 
 @media (max-width:991px) {
+    .aximo-title-animation {
+        font-size: 50px !important;
+    }
+
     .aximo-hero-thumb img {
         display: none;
     }
